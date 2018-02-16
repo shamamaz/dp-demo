@@ -51,9 +51,7 @@ Basically, We promised our best to not make people cry.
 
 * Lessons Learned
 - Research is *quite* subjective
-- Even peer-reviewed, published research can be very controversial
-- Think critically, always
-
+- Even peer-reviewed, published research can be controversial
 * Questions?
 #+BEGIN_NOTES
 - That concludes my presentation!
