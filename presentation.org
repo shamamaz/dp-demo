@@ -22,45 +22,28 @@ February 16, 2018
 - Preliminary details: the idea, the collaborators
 - Topic: Student Misconceptions of Dynamic Programming
 - Method: Interview Students taking CSC373 at UofT
-- Old papers: a few, very dry, very long.
+- Reading previous research
 
 #+BEGIN_NOTES
-1) I had a few ideas for a research study on student misconceptions. I talked to a prof who I had been a student of and TA-ed with, and he decided to add another professor to the project as well.
-2) My partner on the project (Ash) joined, and she had the idea to do research on dynamic Programming
-#+END_NOTES
-
-** Reading the Old Research
-#ADD GIF here.
-#+BEGIN_NOTES
-3) So, we finally got started… and we had to read a whole bunch of super new, super boring research papers.
-I brought one today for all of us to read! (Screenshot of enstrom, gif of me scrolling through enstrom).
+Old papers, v dry.
 #+END_NOTES
 
 ** Ethics Review
 - 15 page paper
 - who/what/when/where/why/how
 
+** Conducting the Research
+- Topic: Student Misconceptions of Dynamic Programming- Method: Interview Students taking CSC373 at UofT
+
 #+BEGIN_NOTES
 Hammered out details of the process
 Basically, We promised our best to not make people cry.
 #+END_NOTES
 
-** Interviews
-- 14 students, 1 hour each
-- 3 - 4 Questions
-- Think-aloud technique
-- 2 researchers + 1 magic pen
-#+BEGIN_NOTES
-So we used this pen, it's called the Livescribe Echo, that records voice and the notes taken, and synchronizes both together.
-but exporting the file took forever and a damn day!
-"paper-based computing platform includes a smartpen, dot paper and software applications"
-#+END_NOTES
-
 * Writing the Research Paper!
 - Sections: Background, Method, Analysis, Conclusion
-- Lots of Analysis!!
+- Lots of Analysis!
 - 4 co-writers, about 2 weeks, and lots of coffee
-- Many, many, many edits
 ** Submission
 
 * Feedback
