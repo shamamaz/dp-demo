@@ -20,8 +20,7 @@ February 16, 2018
 
 * Setting
 - Preliminary details: the idea, the collaborators
-- Topic: Student Misconceptions of Dynamic Programming
-- Method: Interview Students taking CSC373 at UofT
+- Topic: Dynamic Programming Education
 - Reading previous research
 
 #+BEGIN_NOTES
@@ -33,7 +32,7 @@ Old papers, v dry.
 - who/what/when/where/why/how
 
 ** Conducting the Research
-- Topic: Student Misconceptions of Dynamic Programming- Method: Interview Students taking CSC373 at UofT
+- Method: Interview Students taking CSC373 at UofT
 
 #+BEGIN_NOTES
 Hammered out details of the process
